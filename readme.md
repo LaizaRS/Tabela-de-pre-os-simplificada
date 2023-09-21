@@ -15,5 +15,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 <br>
 <p align="center">
-  <img alt="Desafio 15" src="img/Mobile.png" width="100%">
+  <img alt="Desafio 15" src="img/Mobile.png" width="30%">
 </p>
